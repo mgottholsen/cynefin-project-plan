@@ -47,9 +47,6 @@ http://roadview-images.kytc.ky.gov/Van3_Mandli_Data_6/03-23-2017/2017_V3_100-KY-
 
 http://maps.kytc.ky.gov/photolog/?config=Photolog&x1=5114935.959483551&y1=3868453.589951066&x2=5427435.959483551&y2=3971969.214951066&MODE=PL
 
-http://maps.kytc.ky.gov/photolog/?config=Photolog&x1=5114935.959483551&y1=3868453.589951066&x2=5427435.959483551&y2=3971969.214951066&MODE=PL
-
-
 ---
 
 ### Long Term Integration Phases
