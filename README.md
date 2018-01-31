@@ -35,6 +35,21 @@ There are any number of use cases for leveraging image-related data within a gov
  - https://blog.mapillary.com/update/2018/01/12/helsingborg.html
  - https://blog.mapillary.com/update/2018/01/15/autonomous-intelligent-driving-mapillary-vistas.html
 
+
+## Data Sources
+
+### KYTC
+KYTC has a photolog viewer from their asset collection vehicles. I believe they run interstates once a year and state routes every 2. Chad Shive (Chad.Shive@ky.gov) is the engineer over that program but I it appears Jason Watson is the Technician that oversees it.
+ 
+https://transportation.ky.gov/Maintenance/Pages/Pavement-Data-Collection.aspx
+
+http://roadview-images.kytc.ky.gov/Van3_Mandli_Data_6/03-23-2017/2017_V3_100-KY-2298N/2017_V3_100-KY-2298N/Front/Dir_000/F_00001.jpg
+
+http://maps.kytc.ky.gov/photolog/?config=Photolog&x1=5114935.959483551&y1=3868453.589951066&x2=5427435.959483551&y2=3971969.214951066&MODE=PL
+
+http://maps.kytc.ky.gov/photolog/?config=Photolog&x1=5114935.959483551&y1=3868453.589951066&x2=5427435.959483551&y2=3971969.214951066&MODE=PL
+
+
 ---
 
 ### Long Term Integration Phases
