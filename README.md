@@ -6,7 +6,7 @@ Cynefin is a Welsh word meaning haunt, habitat, acquainted, accustomed, familiar
 ## Brief
 The goal of this project is to utilize, analyze and store multiple streams of raster & vector location related data, to create a multi-modal remote sensing platform for Louisville Metro Government.
 
-## Immediate Use Cases
+## Immediate Enterprise Use Cases
 There are any number of use cases for leveraging image-related data within a governmental body. This Innovation Project not only leverages existing or low cost commodity hardware for remote sensing & data collection, it also proves that low cost and intelligent smart city technology is in the reach of most cities.
 
 - General: Environmental GIS data capture
@@ -28,6 +28,24 @@ There are any number of use cases for leveraging image-related data within a gov
 - Sustainability: Tree Identification
 
 - Air Pollution Control District: Vehicle Make/Model Analytics for Pollution
+
+## Example Uses Cases
+
+### Mapillary
+ - https://blog.mapillary.com/update/2018/01/12/helsingborg.html
+ - https://blog.mapillary.com/update/2018/01/15/autonomous-intelligent-driving-mapillary-vistas.html
+
+
+## Data Sources
+
+### KYTC
+KYTC has a photolog viewer from their asset collection vehicles. I believe they run interstates once a year and state routes every 2. Chad Shive (Chad.Shive@ky.gov) is the engineer over that program but I it appears Jason Watson is the Technician that oversees it.
+ 
+https://transportation.ky.gov/Maintenance/Pages/Pavement-Data-Collection.aspx
+
+http://roadview-images.kytc.ky.gov/Van3_Mandli_Data_6/03-23-2017/2017_V3_100-KY-2298N/2017_V3_100-KY-2298N/Front/Dir_000/F_00001.jpg
+
+http://maps.kytc.ky.gov/photolog/?config=Photolog&x1=5114935.959483551&y1=3868453.589951066&x2=5427435.959483551&y2=3971969.214951066&MODE=PL
 
 ---
 
